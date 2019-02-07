@@ -1,0 +1,15 @@
+.header{
+  background-color: aquamarine;
+  width:100%;
+  height: 80px;
+  display: grid;
+  grid-area: h h
+
+  
+}
+
+.sidebar{
+  width: 150px;
+  height: 100%;
+  background-color: blueviolet;
+}
